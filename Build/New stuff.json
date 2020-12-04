@@ -1,0 +1,14 @@
+{
+"companyName": "Sovereignty Games",
+"productName": "Cupqake Arena",
+"dataUrl": "New stuff.data.unityweb",
+"wasmCodeUrl": "New stuff.wasm.code.unityweb",
+"wasmFrameworkUrl": "New stuff.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "New stuff.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
