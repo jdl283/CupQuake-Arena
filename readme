@@ -5,6 +5,24 @@ Controls
 - Left Mouse Button to fire
 - Right Mouse Button to scope (with select weapons)
 - Spacebar to jump
+- Scrollwheel/Numbers 1-5 to select weapon
+
+It is recommended that you click the blue fullscreen button at the bottom right of the page for the best experience. 
 
 How to start a game
-On the main menu, click the 
+On the main menu, click the "Create Room" button. To the side of the Lobby window, you can also select 1 of 3 maps to be played on (Hyper, Division Ruine, Quixotic).
+
+How to join a game in progress
+On the main menu, click the "Join Room" button next to the room you want to join. This button will only show up if someone else already created a room.
+* Note: The hosting service connects you to different servers based on your IP address to decrease latency. For example, if you are on the west coast and want to play a game with someone on the east coast, you will need to use a VPN. *
+
+How to leave a game
+Press escape, then right click the "Leave Room" text twice. This should bring you back to the main menu.
+
+Known issues/bugs
+- Game runs poorly on lower end systems
+- Nerds cannon hit registration does not work if the player is moving. 
+- Frag registration is overall finicky. Sometimes it will not reward you for a frag and other times it will give you 4-5 frags for 1 frag.
+- Gusher launcher kills do not count towards Frags.
+- Momentum is preserved even when running into a wall. 
+- Item pickups and moving platform positions are not synced across clients. 
